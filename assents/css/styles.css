@@ -45,7 +45,6 @@ input, select{
 .hide{
     display: none;
 }
-
 /* Todo header */
 .todo-container{
     max-width: 450px;
