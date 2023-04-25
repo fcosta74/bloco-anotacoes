@@ -47,7 +47,6 @@ const saveTodo = (text, done = 0, save = 1) => {
   todoList.appendChild(todo);
 
   todoInput.value = "";
-  todoInput.focus()
 };
 
 const toggleForms = () => {
