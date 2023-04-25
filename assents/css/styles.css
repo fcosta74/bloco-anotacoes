@@ -10,8 +10,6 @@ body{
     background-image: url("../../img/fundo.jpg");
     background-position: center;
     background-size: cover;
-    background-repeat: no-repeat;
-    height: 100vh;
 }
 button{
     background-color: #fdfdfd;
